@@ -1,0 +1,20 @@
+
+http://dev.maxmind.com/geoip/geolite
+
+http://www.maxmind.com/download/geoip/database/
+
+GeoIP.dat.gz Magic
+
+## Example Simple Rest Server
+https://github.com/JackDanger/geoip_server
+
+
+## Good History Link
+
+http://www.maxmind.com/download/geoip/database/asnum/old/
+
+## Garbage Hacks
+
+
+https://gist.github.com/3849505
+

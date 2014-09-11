@@ -1,12 +1,22 @@
 # Hippogriff
 
+[![Build Status](https://travis-ci.org/shadowbq/hippogriff.svg)](https://travis-ci.org/shadowbq/hippogriff)
+
 Fly across time and space to find the rightful owners.
 
 ![About](http://upload.wikimedia.org/wikipedia/commons/d/da/Hippogriff2.jpg) [1]
 
 ## GeoIP Server Revisted
 
-[Erik Michaels-Ober]
+This is a sinatra application geared to respond in JSON to historical based GeoIP requests. This should be fast
+and painless. (rofl). It will load the first dat file after the date requested, or the newest one it has and search for the 
+most historically correct entry. Bang, click, clog!!
+
+** The tardis is still being built... ** 
+
+### Original Fork
+
+[Erik Michaels-Ober] fork of GeoIP Server, thanks for the inspiration Jack Danger!
 
 This simple Rack server is useful as a self-hosted service for making lookups to the GeoIP database from [MaxMind][].
 

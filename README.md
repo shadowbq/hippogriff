@@ -43,7 +43,7 @@ Contributing authors: [Shadowbq, Erik Michaels-Ober]
 
 Copyright (c) 2010-2014, 
 
-Maxmind - [Data LICENSE](./LICENSE.maxmind)
+Maxmind - [Data LICENSE](./LICENSE.Maxmind)
 
 GeoLite Databases (c) 2005 - 2014 MaxMind.
 

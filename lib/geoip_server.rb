@@ -2,7 +2,8 @@ require 'sinatra'
 require 'geoip'
 require 'multi_json'
 
-data_file = File.expand_path(File.join(File.dirname(__FILE__), '..', 'vendor', 'GeoLiteCity.dat'))
+#data_file = File.expand_path(File.join(File.dirname(__FILE__), '..', 'vendor', 'GeoLiteCity.dat'))
+data_file = File.expand_path(File.join(File.dirname(__FILE__), '..', 'db', 'GeoLiteCity.dat.2012.11.05'))
 
 configure :production do
   begin

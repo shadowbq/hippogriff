@@ -35,6 +35,17 @@ Or, straight from a terminal:
 
     curl http://localhost/207.97.227.239
 
-Contributing authors: [Erik Michaels-Ober]
+## License & Copyrights
 
-Copyright (c) 2010-2014
+MIT - See [LICENSE](./LICENSE)
+
+Contributing authors: [Shadowbq, Erik Michaels-Ober]
+
+Copyright (c) 2010-2014, 
+
+Maxmind - [Data LICENSE](./LICENSE.maxmind)
+
+GeoLite Databases (c) 2005 - 2014 MaxMind.
+
+This product includes GeoLite data created by MaxMind, available from
+http://maxmind.com/ 
